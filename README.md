@@ -1,0 +1,2 @@
+# botDofus
+botDofus
